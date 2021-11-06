@@ -1,8 +1,8 @@
 {
 	"semi": false,
 	"singleQuote": true,
-	"tabWidth": 2,
 	"useTabs": true,
+	"tabWidth": 2,
 	"jsxSingleQuote": true,
 	"bracketSpacing": true,
 	"jsxBracketSameLine": false,
