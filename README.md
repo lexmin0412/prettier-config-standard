@@ -1,2 +1,22 @@
-# prettier-base
-前端项目基础 prettier 配置
+# @youtils/prettier-config-standard
+
+[English](https://github.com/lexmin0412/youtils-prettier-config-standard/blob/main/README.md) | [中文](https://github.com/lexmin0412/youtils-prettier-config-standard/blob/main/README.zh-cn.md)
+
+Universal and common prettier configuration for your frontend projects.
+
+## Install
+
+```bash
+yarn add @youtils/prettier-config-standard -D
+```
+
+## Usage
+
+Add `.prettierrc.js` in you project's root directory:
+
+```js
+module.exports = {
+	...require('@youtils/prettier-config-standard'),
+}
+```
+
