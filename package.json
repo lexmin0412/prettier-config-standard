@@ -1,7 +1,7 @@
 {
   "name": "@youtils/prettier-config",
   "version": "1.0.0-alpha.1",
-  "description": "前端项目的基础 prettier 配置",
+  "description": "前端项目的通用基础 prettier 配置",
   "main": "config.json",
   "repository": "git@github.com:lexmin0412/prettier-base.git",
   "author": "lexmin0412 <zhangle_media@hotmail.com>",
