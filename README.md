@@ -20,3 +20,33 @@ module.exports = {
 }
 ```
 
+## Override
+
+```js
+module.exports = {
+	...require('@youtils/prettier-config-standard'),
+	semi: true
+}
+```
+
+set `semi` to `true` after require `@youtils/prettier-config-standard` will override standard configurations.
+
+## Default Configuration
+
+there are some configuration items defined:
+
+```json
+{
+	"semi": false,
+	"singleQuote": true,
+	"useTabs": true,
+	"tabWidth": 2,
+	"jsxSingleQuote": true,
+	"bracketSpacing": true,
+	"bracketSameLine": false,
+	"printWidth": 80,
+	"arrowParens": "avoid"
+}
+```
+
+Click [Here](https://prettier.io/docs) to get more details about Prettier.
