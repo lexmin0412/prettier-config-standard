@@ -7,7 +7,7 @@ Universal and common prettier configuration for your frontend projects.
 ## Install
 
 ```bash
-yarn add @lexmin0412/prettier-config-standard -D
+pnpm add @lexmin0412/prettier-config-standard -D
 ```
 
 ## Usage

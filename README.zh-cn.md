@@ -7,7 +7,7 @@
 ## 安装
 
 ```bash
-yarn add @lexmin0412/prettier-config-standard -D
+pnpm add @lexmin0412/prettier-config-standard -D
 ```
 
 ## 使用
