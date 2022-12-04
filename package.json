@@ -5,5 +5,8 @@
   "main": "config.json",
   "repository": "git@github.com:lexmin0412/prettier-config-standard.git",
   "author": "lexmin0412 <zhangle_media@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+	"publishConfig": {
+		"access": "public"
+	}
 }
