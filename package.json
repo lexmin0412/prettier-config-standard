@@ -1,5 +1,5 @@
 {
-  "name": "@youtils/prettier-config-standard",
+  "name": "@lexmin0412/prettier-config-standard",
   "version": "1.0.1",
   "description": "前端项目的通用基础 prettier 配置",
   "main": "config.json",
